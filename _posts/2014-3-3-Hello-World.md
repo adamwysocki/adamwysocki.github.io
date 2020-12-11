@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting start!
+title: Getting started!
 ---
 
 Putting this thing together
